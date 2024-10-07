@@ -1,10 +1,10 @@
 {
     "configVersion": 2,
-    "appIdentifier": "myapp.firstmobileapp",
-    "appName": "first-mobile-app",
+    "appIdentifier": "myapp.locationtest",
+    "appName": "location-test",
     "bundleName": {
-        "main": "firstMobileApp",
-        "dev": "firstMobileADev"
+        "main": "locationTest",
+        "dev": "locationTestDev"
     },
     "deviceTarget": {
         "phone": true,
