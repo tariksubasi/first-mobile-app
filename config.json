@@ -121,5 +121,6 @@
         "nativeOTA": {
             "enabled": false
         }
-    }
+    },
+    "hermesEnabled": false
 }
