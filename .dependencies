@@ -1,1 +1,4 @@
-{}
+{
+    "@react-native-community/geolocation": "2.0.2",
+    "react-native-geolocation-service": "5.2.0"
+}
